@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <strong>Renan Muniz</strong></h1>
 
-<h3 align="center">🧠 Data Scientist | Data Engineer | Data Enthusiast</h3>
+<h3 align="center">🧠 Junior Data Scientist | Data Analyst | Data Engineering Projects</h3>
 <p align="center">
   📍 Madrid, España · 📧 <a href="mailto:luregat@gmail.com">luregat@gmail.com</a><br>
   🔗 <a href="https://linkedin.com/in/renan-muniz1310">LinkedIn</a> | <a href="https://github.com/Bisteca">GitHub</a>
