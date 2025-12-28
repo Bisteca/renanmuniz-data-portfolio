@@ -98,7 +98,19 @@ Includes KPIs, demographic segmentation, heatmaps, age-group insights, and lifes
 
 **Tech**: Power BI, DAX, Power Query, Data Modeling, Data Visualization, UX for BI
 
+
 ---
+### 🧠 Psychology Appointments & Payments Manager
+
+Backend-focused web application designed to manage psychology sessions and monthly payment tracking for a real-world use case.
+
+Supports daily session registration, monthly aggregation of unpaid sessions, and payment status management with a SQL-first approach.
+
+**Tech**: Python, Flask, PostgreSQL, psycopg2, SQL, Pandas, Render, Neon
+
+---
+
+
 ## 📫 Contact  
 📧 **[luregat@gmail.com](mailto:luregat@gmail.com)**  
 🌐 [linkedin.com/in/renan-muniz1310](https://linkedin.com/in/renan-muniz1310)  
