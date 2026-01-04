@@ -113,8 +113,6 @@ Screenshots of each dashboard page are available in the `/screenshots` folder.
 
 ## 📬 Author
 
-**[Your Name]**  
+**Renan Muniz**  
 Aspiring Data Analyst | Power BI | Data Visualization  
 
-🔗 LinkedIn: [your-link-here]  
-📂 Portfolio: [your-github-link-here]
