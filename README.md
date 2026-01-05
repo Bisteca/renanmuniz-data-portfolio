@@ -103,13 +103,20 @@ Includes KPIs, demographic segmentation, heatmaps, age-group insights, and lifes
 ### 🧠 Psychology Appointments & Payments Manager
 
 Backend-focused web application designed to manage psychology sessions and monthly payment tracking for a real-world use case.
-
 Supports daily session registration, monthly aggregation of unpaid sessions, and payment status management with a SQL-first approach.
 
 **Tech**: Python, Flask, PostgreSQL, psycopg2, SQL, Pandas, Render, Neon
 
 ---
+### 📊 Sales Performance Analysis Dashboard (Power BI)
 
+Multi-page BI dashboard analyzing sales performance across executive, product, and regional dimensions.
+Features YoY analysis, growth metrics, sales concentration, and market insights using a star schema model and advanced DAX.
+
+
+**Tech**: Power BI, DAX, Power Query, Data Modeling, Business Analytics
+
+---
 
 ## 📫 Contact  
 📧 **[luregat@gmail.com](mailto:luregat@gmail.com)**  
