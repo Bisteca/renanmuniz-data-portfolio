@@ -14,4 +14,3 @@ def get_connection():
         port="5432"
     )
 
-conexion = get_connection()
