@@ -147,9 +147,3 @@ Potential extensions of this project include:
 * cohort analysis
 * customer lifetime value estimation
 * visualization dashboards (Power BI / Tableau)
-
----
-
-
-
-⭐ *Thank you for reading!*
