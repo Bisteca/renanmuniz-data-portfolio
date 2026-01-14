@@ -150,13 +150,6 @@ Potential extensions of this project include:
 
 ---
 
-## 📬 Contact
 
-If you would like to discuss this project or provide feedback:
-
-* LinkedIn: *(add your profile link here)*
-* GitHub: *(this repository)*
-
----
 
 ⭐ *Thank you for reading!*
